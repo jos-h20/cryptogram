@@ -1,5 +1,22 @@
 #result {
   display: none;
   word-wrap: normal;
-  width: 200px;
+  width: 1000px;
+}
+
+p {
+  text-align: left;
+  font-size: 40px;
+  margin-top: 50px;
+}
+.codemess {
+  text-align: center;
+  /*margin-left: 30px;*/
+  margin-right: 60px;
+  font-family: fantasy;
+  display: block;
+}
+label {
+  font-size: 25px;
+  margin-top: 100px;
 }
